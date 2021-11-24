@@ -6,7 +6,7 @@
 <ul>
  <li>Create tasks easily</li>
  <li>Move frame tasks quickly</li>
- <li></strong> and <strong><a href="#web">Web</a></strong> version</li>
+ <li><strong><a href="#web">Web</a></strong> version</li>
 </ul>
 
 <h3 id="web">Web</h3>
