@@ -1,5 +1,5 @@
 <div style="text-align:center">
- # GeekFy
+ <h1>GeekFy</h1>
 </div>
 <h2> A beautiful and simple front-end app, for task cards</h2>
 
