@@ -1,13 +1,68 @@
-<div style="text-align:center">
- <h1>GeekFy</h1>
-</div>
-<h2> A beautiful and simple front-end app, for task cards</h2>
+# 📌 GeekFy
 
-<ul>
- <li>Create tasks easily</li>
- <li>Move frame tasks quickly</li>
- <li><strong><a href="#web">Web</a></strong> version</li>
-</ul>
+**GeekFy** is a simple, intuitive, and visually appealing front-end web application designed for efficient task management using interactive cards. Easily create, organize, and move tasks to streamline your productivity.
 
-<h3 id="web">Web</h3>
-<img src="screenshot/1.png" />
+---
+
+## ✨ Features
+
+- 📝 Quickly create task cards
+- 📂 Easily organize tasks by moving cards
+- 🎨 Modern and responsive design
+- 🖥️ Web-based interface for easy accessibility
+
+---
+
+## 🛠️ Technologies
+
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+
+---
+
+## 🚀 Quick Start
+
+Clone the repository to your local environment:
+
+```bash
+git clone https://github.com/gustavofalcao1/GeekFy.git
+cd GeekFy
+```
+
+Open `index.html` in your preferred browser to run the application locally.
+
+---
+
+## 📸 Screenshot
+
+![GeekFy Screenshot](screenshot/1.png)
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions to enhance GeekFy:
+
+1. Fork this repository
+2. Create your branch (`git checkout -b feature/new-feature`)
+3. Commit your changes (`git commit -m 'Add new feature'`)
+4. Push changes (`git push origin feature/new-feature`)
+5. Open a Pull Request
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+## 👤 Author
+
+**Gustavo Falcão**  
+[GitHub @gustavofalcao1](https://github.com/gustavofalcao1)  
+[Project Repository](https://github.com/gustavofalcao1/GeekFy)
+
+---
+
