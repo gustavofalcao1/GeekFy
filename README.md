@@ -1,6 +1,6 @@
 # 📌 GeekFy
 
-**GeekFy** is a simple, intuitive, and visually appealing front-end web application designed for efficient task management using interactive cards. Easily create, organize, and move tasks to streamline your productivity.
+**GeekFy** is a simple, intuitive, and visually appealing front-end web application built with React, designed for efficient task management using interactive cards. Easily create, organize, and move tasks to streamline your productivity.
 
 ---
 
@@ -15,9 +15,9 @@
 
 ## 🛠️ Technologies
 
-- **HTML5**
-- **CSS3**
+- **React**
 - **JavaScript**
+- **CSS3**
 
 ---
 
@@ -28,9 +28,11 @@ Clone the repository to your local environment:
 ```bash
 git clone https://github.com/gustavofalcao1/GeekFy.git
 cd GeekFy
+npm install
+npm start
 ```
 
-Open `index.html` in your preferred browser to run the application locally.
+The application will run at [http://localhost:3000](http://localhost:3000).
 
 ---
 
